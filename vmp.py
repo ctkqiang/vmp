@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 '''
-F-Secure Virus World Map console edition
-
 See README.md for more details
-
-Copyright 2012-2013 Jyrki Muukkonen
 
 Released under the MIT license.
 See LICENSE.txt or http://www.opensource.org/licenses/mit-license.php
